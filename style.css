@@ -1,0 +1,47 @@
+
+body{
+display: grid;
+background-color: black;
+background-image: url("img/pattern_575.gif");
+text-color: white;
+text-align:center;
+
+}
+
+
+h1{
+font-size: 35px;
+color: #29D6FF;
+text-align:center;
+font-family: balsamiqsans;
+
+
+}
+h3{
+color: #29D6FF;
+text-align:center;
+font-family: balsamiqsans;
+
+
+}
+
+
+
+
+
+#textbox{
+justify-content: space-around;
+border: 4px solid;
+border-color: #29D6FF;
+background-color: #090032;
+
+}
+
+
+@font-face {
+  font-family: balsamiqsans;
+  src: url(fonts/sans.woff2);
+
+
+
+
